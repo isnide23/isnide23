@@ -1,7 +1,5 @@
-- 👋 Hello, I’m Ian Snyder - @isnide23
-- 👀 I’m interested in software, game, app, and web development! 🎮 
-- 🌱 I’m currently coding with flutter, react, & ruby. 💎
-- 💞️ I’m looking to work on apps, games, & websites!
+- Hello, I’m Ian Snyder - @isnide23
+- I’m interested in tools and applications for wildlife and habitat conservation  
 - 📫 How to reach me: isnide23@gmail.com
 - 🎓 B.S. Computer Science - OSU-Cascades 🗻
 
